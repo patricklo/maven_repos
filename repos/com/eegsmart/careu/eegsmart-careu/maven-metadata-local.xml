@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.eegsmart.careu</groupId>
+  <artifactId>eegsmart-careu</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20160415023644</lastUpdated>
+  </versioning>
+</metadata>
